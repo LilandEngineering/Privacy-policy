@@ -6,6 +6,6 @@ To use this application it is required to have a minimum security of a device PI
 No data is to be collected to be transmitted by the application from the device itself and is only to be used locally on the device. 
 To completley delete data, simpley remove the application from the device through Google Play.
 No removed data is stored in memory when any of the content of the application is deleted from inside the application.
-The application requires USE_BIOMETRIC permission to secure data locally. This permission is used to access the application, and to access content inside of the application.
+The application requires USE_BIOMETRIC and USE_FINGERPRINT permission to secure data locally. This permission is used to access the application, and to access content inside of the application.
 The user is responsible for having device security activated, safe and up to date at any time when using the application. 
 The user is also responsible for how the application is to be used. Sharing of application content intentionally or unintentionally is not recomended.
